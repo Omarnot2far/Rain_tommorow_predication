@@ -1,4 +1,6 @@
+Flask
+sklearn
 pandas
 numpy
-Flaskpip
 matplotlib
+gunicorn
