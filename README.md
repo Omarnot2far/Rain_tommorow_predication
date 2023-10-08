@@ -23,7 +23,8 @@ Australian weather- Predict next-day rain
     - import pickle
     - from Flask import Flask,request,app,          
       jasonify,url_for,reder_template 
-- check the app it into postman 
+- check the app it into postman and the push to github
+- create a web app where create a form at app.py
 
 
 
